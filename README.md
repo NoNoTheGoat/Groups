@@ -1,6 +1,16 @@
 # Groups
 This is a simple script that allows players to create and join groups. The script defines a blacklist of inappropriate group names and handles group creation, joining, leaving, and deletion.
 
+## How To Install
+* Drag and drop the resource into your resource folder
+* Add the following lines in server.cfg
+``` 
+ensure Groups
+```
+* save
+* start the server
+* run a command and boom your done
+
 ## Commands
 + /group -- Main Command
 + /group create [Name]   -- Create A Group - Remove the brackets 

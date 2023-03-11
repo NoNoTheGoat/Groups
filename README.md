@@ -8,6 +8,9 @@ This is a simple script that allows players to create and join groups. The scrip
 + /group join [Name]     -- Join A Group - Remove the brackets 
 + /group leave [Name]    -- Leave A Group - Remove the brackets 
 
+## Preview
+
+![WhatItDoes](https://media.discordapp.net/attachments/1078832551776493579/1084024388514492506/image.png?width=522&height=147)
 
 
-[WhatItDoes](https://media.discordapp.net/attachments/1078832551776493579/1084024388514492506/image.png?width=522&height=147)
+![NoNo](https://media.discordapp.net/attachments/1078832551776493579/1084032327014953021/image_2023-03-11_003424817_250x250.png?width=200&height=200)

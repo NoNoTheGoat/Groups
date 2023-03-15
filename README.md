@@ -3,10 +3,7 @@ This is a simple script that allows players to create and join groups. The scrip
 
 ## How To Install
 * Drag and drop the resource into your resource folder
-* Add the following lines in server.cfg
-``` 
-ensure Groups
-```
+* Add ```ensure Groups``` into server.cfg
 * save
 * start the server
 * run a command and boom your done
@@ -18,6 +15,10 @@ ensure Groups
 + /group join [Name]     -- Join A Group - Remove the brackets 
 + /group leave [Name]    -- Leave A Group - Remove the brackets 
 
+## To-Do
+- [x] Add A Command 
+- [ ] Add Friendly Fire
+- [ ] Add A UI / Pop-up Screen
 ## Preview
 
 ![WhatItDoes](https://media.discordapp.net/attachments/1078832551776493579/1084024388514492506/image.png?width=522&height=147)
